@@ -4,3 +4,4 @@
 ## To-Do
 
 - [ ] Avatar images
+- [ ] Title is wrong
