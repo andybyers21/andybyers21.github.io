@@ -8,3 +8,4 @@
 - [ ] Contact us links
 - [ ] email addresses
 - [ ] demonstration assesment
+- [ ] download icon on BUY NOW
