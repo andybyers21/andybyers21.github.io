@@ -1,5 +1,6 @@
-# andybyers21.github.io
-# TachoPrint
+# TachoPrint.co.uk
+
+andybyers21.github.io
 
 ## To-Do
 
@@ -8,7 +9,7 @@
 - [ ] Reviews
 - [X] ~~Title is wrong~~
 - [ ] Contact us links
-- [ ] demonstration assesment?
+- [X] ~~demonstration assesment?~~
 - [ ] download icon on BUY NOW
 - [ ] images of printouts
 - [ ] buy now button after pricing
