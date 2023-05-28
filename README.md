@@ -4,7 +4,7 @@
 ## To-Do
 
 - [ ] Avatar images
-- [X] Title is wrong
+- [X] ~~Title is wrong~~
 - [ ] Contact us links
 - [ ] email addresses
 - [ ] demonstration assesment
