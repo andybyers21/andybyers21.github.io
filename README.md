@@ -4,4 +4,7 @@
 ## To-Do
 
 - [ ] Avatar images
-- [ ] Title is wrong
+- [X] Title is wrong
+- [ ] Contact us links
+- [ ] email addresses
+- [ ] 
