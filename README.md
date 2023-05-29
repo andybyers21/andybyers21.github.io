@@ -5,14 +5,14 @@ andybyers21.github.io
 ## To-Do
 
 ### Website
-- [ ] Avatar images
-- [ ] Reviews 
+- [X] ~~Avatar images~~
+- [X] ~~Reviews~~
 - [X] ~~Title is wrong~~
-- [ ] Contact us links
+- [X] ~~Contact us links~~
 - [ ] social links
 - [X] ~~demonstration assesment?~~
 - [ ] download icon on BUY NOW
-- [ ] images of printouts
+- [X] ~~images of printouts~~
 - [ ] buy now button after pricing
 - [X] ~~DVSA Logo~~
 - [X] ~~DVSA / DVLA?~~
