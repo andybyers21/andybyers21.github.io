@@ -9,14 +9,14 @@ andybyers21.github.io
 - [X] ~~Reviews~~
 - [X] ~~Title is wrong~~
 - [X] ~~Contact us links~~
-- [ ] social links
 - [X] ~~demonstration assesment?~~
-- [ ] download icon on BUY NOW
 - [X] ~~images of printouts~~
-- [ ] buy now button after pricing
 - [X] ~~DVSA Logo~~
 - [X] ~~DVSA / DVLA?~~
+- [ ] social links
+- [ ] download icon on BUY NOW
+- [ ] buy now button after pricing
 
 ### Admin
 - [ ] email addresses
-- [ ] domain routing
+- [X] ~~domain routing~~
