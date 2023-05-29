@@ -6,14 +6,16 @@ andybyers21.github.io
 
 ### Website
 - [ ] Avatar images
-- [ ] Reviews
+- [ ] Reviews 
 - [X] ~~Title is wrong~~
 - [ ] Contact us links
+- [ ] social links
 - [X] ~~demonstration assesment?~~
 - [ ] download icon on BUY NOW
 - [ ] images of printouts
 - [ ] buy now button after pricing
 - [X] ~~DVSA Logo~~
+- [X] ~~DVSA / DVLA?~~
 
 ### Admin
 - [ ] email addresses
